@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+h1{
+	margin-top:24%;
+	color:white;
+	background-color:green;
+	display:inline;
+	border-radius:30px;
+	
+}
